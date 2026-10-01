@@ -8,6 +8,10 @@ Using customer demographics, account information, services, contract details, an
 
 The project uses Python, SQL, and Power BI to transform data into actionable business insights.
 
+## 📄 Dashboard Report
+ 
+📥 [View Dashboard Report](./Telco_Customer_Churn_AnalysisnalPDF.pdf
+
 ## 🎯 Project Objective
 
 Identify customer segments with elevated churn risk and uncover key factors associated with customer retention.
