@@ -10,7 +10,7 @@ The project uses Python, SQL, and Power BI to transform data into actionable bus
 
 ## 📄 Dashboard Report
  
-📥 [View Dashboard Report](./Telco_Customer_Churn_AnalysisnalPDF.pdf
+📥 [View Dashboard Report] (
 
 ## 🎯 Project Objective
 
